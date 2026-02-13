@@ -1,8 +1,1 @@
-# xlorid.github.io
-A magic beeper that gives you Archived prescripts
-All credit goes to Kritzkingvoid
-His github: https://github.com/Kritzkingvoid
-The original prescript generator: https://github.com/Kritzkingvoid/Prescripts
-His youtube: https://www.youtube.com/watch?v=ST5DWHnT_Po
-His kofi: https://ko-fi.com/kritzkingvoid
-His patreon: https://www.patreon.com/c/KritzKingVoid
+<img width="972" height="801" alt="image" src="https://github.com/user-attachments/assets/172e3883-09fb-41fb-83b6-4cd39a8329bc" />
